@@ -1,22 +1,45 @@
-Hello there! 👋 I'm a new student at 42 Madrid, and my journey has been quite an artistic adventure. Throughout my life, I've been dedicated to digital photography, painting, and the exploration of multimedia content creation, including music composition.
-Early Days in Web Development
+¡Hola! 👋
 
-My foray into programming dates back to the late '90s, a time when I was already building web pages using HTML and later specializing in Flash. Unfortunately, the Flash technology I was immersing myself in fell out of favor, leading me to focus my efforts on photography and painting.
-Rediscovering the Web
 
-I found my way back to the web through WordPress, but today, I'm eager to take on a new challenge. My goal is to become a seasoned professional in the development of virtual and augmented reality applications.
-Embracing the Dream
+¡Bienvenido/a a mi perfil de GitHub! Soy un nuevo estudiante en 42 Madrid, desde septiembre del 2023 y mi viaje de vida hasta esta fecha ha sido toda una aventura artística. A lo largo de mi vida, me he dedicado a la creación de contenido multimedia:
 
-Throughout my life, I've harbored a dream that the technology behind virtual and augmented reality would become a reality. Now, I'm excited to acquire the skills needed to bring this dream to life by creating compelling and immersive content.
-Current Focus
+Fotografía digital.
+Pintura.
+Composición musical.
+Producción de video.
 
-My current focus is on learning and mastering the skills necessary to be proficient in virtual and augmented reality development. I believe that by combining my artistic background with technical expertise, I can contribute to the exciting field of immersive technology.
-GitHub Goals
+Lo que me falta para completar el círculo es profundizar y conocer el arte de la programación. Esto me permitirá, además de potenciar y elevar mis artes multimediales, también realizar muchas ideas, mi objetivo principal.
 
-I've joined GitHub to showcase my journey, share my projects, and collaborate with like-minded individuals. I'm looking forward to learning from the vibrant GitHub community and contributing to the world of immersive experiences.
 
-Let's connect and create something amazing together! 🚀
-<!---
-paolosapio/paolosapio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Mi página web:
+ www.SapioArt.com 
+
+Mis proyectos de 42 Madrid:
+ LIBFT 
+ GNL 
+ PRINTF 
+
+
+
+Primeros Pasos en el Desarrollo Web
+
+Mi incursión en la programación se remonta a finales de los años 90, una época en la que ya estaba construyendo páginas web utilizando HTML y más tarde especializándome en Flash. Desafortunadamente, la tecnología Flash en la que me estaba sumergiendo quedó en desuso, lo que me llevó a centrar mis esfuerzos en la fotografía y la pintura.
+
+Redescubriendo la Web
+
+Encontré mi camino de regreso a la web a través de WordPress, pero hoy, estoy ansioso/a por asumir un nuevo desafío. Mi objetivo es convertirme en un/a profesional experimentado/a en el desarrollo de aplicaciones de realidad virtual y aumentada.
+
+Abrazando el Sueño
+
+A lo largo de mi vida, he albergado el sueño de que la tecnología detrás de la realidad virtual y aumentada se convirtiera en una realidad. Ahora, estoy emocionado/a de adquirir las habilidades necesarias para hacer realidad este sueño creando contenido convincente e inmersivo.
+
+Enfoque Actual
+
+Mi enfoque actual está en aprender y dominar las habilidades necesarias para ser competente en el desarrollo de realidad virtual y aumentada. Creo que al combinar mi formación artística con experiencia técnica, puedo contribuir al emocionante campo de la tecnología inmersiva.
+
+Objetivos en GitHub
+
+Me he unido a GitHub para mostrar mi viaje, compartir mis proyectos y colaborar con personas con ideas afines. Estoy deseando aprender de la vibrante comunidad de GitHub y contribuir al mundo de las experiencias inmersivas.
+
+¡Conéctate conmigo y creemos algo increíble juntos! 🚀
